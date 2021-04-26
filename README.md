@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NMendels
-- 👀 I’m interested in artificial intelligence, quantum computing and quality code assurance.
+- 👀 I’m interested in artificial intelligence, virtual reality, quantum computing and quality code assurance.
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me -> via github
