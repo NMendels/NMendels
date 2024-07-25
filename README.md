@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMendels
-- 👀 I’m interested in artificial intelligence, virtual reality, quantum computing and code quality assurance
-- 🌱 I’m currently learning R and Python
+- 👀 
+- 🌱 I’m currently learning Python
 
 
 <!---
